@@ -1,0 +1,10 @@
+li a {
+    color: white;
+    text-decoration: none;
+    font-size: 32px;
+    text-align: center;
+}
+
+body {
+    background: white url("images/background.gif") 50% 0% no-repeat;
+}
